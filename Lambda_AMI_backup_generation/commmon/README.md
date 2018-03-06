@@ -1,0 +1,2 @@
+common環境用
+Lambda関数_AMIの作成・削除
